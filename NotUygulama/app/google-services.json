@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162098931433",
+    "project_id": "proje-b75cc",
+    "storage_bucket": "proje-b75cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162098931433:android:4de95835620ddb98ef3278",
+        "android_client_info": {
+          "package_name": "com.example.notuygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162098931433-ginh1a2kusoi3rbuqr22j2ubuif2ocui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-cM7imbEaUn8ZQCylB-zXe7CNL0HXI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162098931433-ginh1a2kusoi3rbuqr22j2ubuif2ocui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
