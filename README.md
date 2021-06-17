@@ -1,1 +1,1 @@
-# Proje2
+# Proje2 NOT UYGULAMASI
